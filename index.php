@@ -1,2 +1,2 @@
 <?php
-requiere 
+eco 'demo';
