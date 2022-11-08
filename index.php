@@ -1,2 +1,2 @@
 <?php
-eco 'demo';
+echo 'demo';
