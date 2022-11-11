@@ -33,26 +33,26 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../layout/top-nav.html" class="nav-link">
+                <a href="historia" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Historia</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../layout/top-nav-sidebar.html" class="nav-link">
+                <a href="mision" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Mision</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../layout/boxed.html" class="nav-link">
+                <a href="vision" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Vision</p>
                 </a>
               </li>
 </ul>
           <li class="nav-item">
-            <a href="../gallery.html" class="nav-link">
+            <a href="sivsoft" class="nav-link">
               <i class="nav-icon fas fa-desktop"></i>
               <p>
                 SivSoft
@@ -60,7 +60,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="../kanban.html" class="nav-link">
+            <a href="emegacartera" class="nav-link">
               <i class="nav-icon fas fa-desktop"></i>
               <p>
                 eMegaCartera
@@ -68,7 +68,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="../gallery.html" class="nav-link">
+            <a href="emegacosechas" class="nav-link">
               <i class="nav-icon fas fa-desktop"></i>
               <p>
                 eMegaCosechas
@@ -76,7 +76,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="../gallery.html" class="nav-link">
+            <a href="megacont" class="nav-link">
               <i class="nav-icon fas fa-desktop"></i>
               <p>
                 MegaCont
@@ -84,7 +84,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="../gallery.html" class="nav-link">
+            <a href="contacto" class="nav-link">
               <i class="nav-icon fas fa-envelope"></i>
               <p>
                 Contacto

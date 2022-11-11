@@ -53,7 +53,7 @@
 
     }else{
 
-      include "modulos/incio.php";
+      include "modulos/inicio.php";
 
     }
     include "modulos/menu.php";
