@@ -33,16 +33,15 @@
 
     if(isset($_GET["ruta"])){
 
-      if($_GET["ruta"] == "demo" ||
-         $_GET["ruta"] == "usuarios" ||
-         $_GET["ruta"] == "categorias" ||
-         $_GET["ruta"] == "productos" ||
-         $_GET["ruta"] == "clientes" ||
-         $_GET["ruta"] == "ventas" ||
-         $_GET["ruta"] == "crear-venta" ||
-         $_GET["ruta"] == "editar-venta" ||
-         $_GET["ruta"] == "reportes" ||
-         $_GET["ruta"] == "salir"){
+      if($_GET["ruta"] == "inicio" ||
+         $_GET["ruta"] == "sivsoft" ||
+         $_GET["ruta"] == "emegacartera" ||
+         $_GET["ruta"] == "emegacosechas" ||
+         $_GET["ruta"] == "megacont" ||
+         $_GET["ruta"] == "contacto" ||
+         $_GET["ruta"] == "historia" ||
+         $_GET["ruta"] == "mision" ||
+         $_GET["ruta"] == "vision"){
 
         include "modulos/".$_GET["ruta"].".php";
 
@@ -54,7 +53,7 @@
 
     }else{
 
-      include "modulos/demo.php";
+      include "modulos/incio.php";
 
     }
     include "modulos/menu.php";
